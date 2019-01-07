@@ -56,6 +56,4 @@ def draw_tree(l, level):
 
 speed("fastest")
 
-draw_tree(l, 4)
-/
 done()
