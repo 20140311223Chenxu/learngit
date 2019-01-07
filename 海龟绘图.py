@@ -1,6 +1,6 @@
 from turtle import *
 
-# 设置色彩模式是RGB:
+# 璁剧疆鑹插僵妯″紡鏄疪GB:
 colormode(255)
 
 lt(90)
@@ -11,7 +11,7 @@ s = 45
 
 width(lv)
 
-# 初始化RGB颜色:
+# 鍒濆鍖朢GB棰滆壊:
 r = 0
 g = 0
 b = 0
@@ -57,5 +57,5 @@ def draw_tree(l, level):
 speed("fastest")
 
 draw_tree(l, 4)
-
+/
 done()
