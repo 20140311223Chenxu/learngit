@@ -57,3 +57,4 @@ def draw_tree(l, level):
 speed("fastest")
 
 done()
+EASY
