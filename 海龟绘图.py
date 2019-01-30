@@ -35,7 +35,7 @@ def draw_tree(l, level):
     b = b + 3
     pencolor(r % 200, g % 200, b % 200)
 
-    l = 3.0 / 4.0 * l
+    l = 3.0 / 4.0  l
 
     lt(s)
     fd(l)
