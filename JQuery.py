@@ -4,12 +4,12 @@
     <p class="color-red color-green">Erlang</p>
     <p name="name" class="color-black">Python</p>
     <form class="test-form" target="_blank" action="#0" onsubmit="return false;">
-        <legend>×¢²áÐÂÓÃ»§</legend>
+        <legend>æ³¨å†Œæ–°ç”¨æˆ·</legend>
         <fieldset>
-            <p><label>Ãû×Ö: <input name="name"></label></p>
-            <p><label>ÓÊ¼þ: <input name="email"></label></p>
-            <p><label>¿ÚÁî: <input name="password" type="password"></label></p>
-            <p><button type="submit">×¢²á</button></p>
+            <p><label>åå­—: <input name="name"></label></p>
+            <p><label>é‚®ä»¶: <input name="e mail"></label></p>
+            <p><label>å£ä»¤: <input name="password" type="password"></label></p>
+            <p><button type="submit">æ³¨å†Œ</button></p>
         </fieldset>
     </form>
 </div>
